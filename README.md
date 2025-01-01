@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Matthew Davis, a Computer Science student at Toronto Metropolitan (formerly Ryerson) University.
+I began coding in the summer before high school! Tragically it was some time before I discovered GitHub and realized the importance of backing up important files and of course, my laptop's hard drive decided to die on me and I lost most of my early coding projects. If you're reading this, take a second to ensure you've backed up what you care about, okay? We good? Great.
+
+I'm a big ol' nerd, lover of video games & board games, and passionate about software development and cybersecurity. I'm currently working on earning some certifications that I will upload here soon - stay posted.
+If you wish to learn a little more about me, talk about my experiences or some of my projects, check out my LinkedIn: https://www.linkedin.com/in/matthew-davis-cs/ and feel free to send me a message :).
 
 <!--
 **Shmath64/Shmath64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
